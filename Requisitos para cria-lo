@@ -1,0 +1,9 @@
+Primeiramente, você precisa de fazer alguns dowloads, eles são:
+Node.js:https://nodejs.org/en/
+Discord.js: Va ao seu CMD do seu computador e bote: npm install discord.js. Para saber mais:https://discord.js.org/#/
+. 
+Após instalaçao de todos esses aplicativos, você vai até esse link:https://discordapp.com/developers/applications/me
+Após entrar nele, vá ate new apps, em **app name** voce bota o nome do seu bot, em app icon a foto dele, depois de fazer tudo isso, vá ate create app.
+Depois disso, desça um pouco a pagina e vai aparecer **Bot** Aperte em create a bot user, aceita. E Pronto! Voce ja tem um bot.
+"Mas como vou por ele em meu servidor?" Simmples! Suba denovo a pagina e va em **Generate OAUTH2 URL** Após fazer isso, em **SCOPES**Selecione
+ a opçao bote logo isso, copie o link e cole. Depois e so apertar em seu servidor e fazer a verificaçao, pronto!Seu bot ja ta em seu servidor
